@@ -1,2 +1,2 @@
-# Ailaysa-Django-BootCamp
+# Django-BootCamp
 Ailaysa - AI SaaS Backend Development Bootcamp
